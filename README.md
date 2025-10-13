@@ -20,14 +20,17 @@ The goal was to understand how to extend Business Central’s standard functiona
  # Functional Flow
 
 Sales Order Created  
-     ↓  
+            ↓  
 User enters warranty details (period, start date, etc.)  
-     ↓  
+            ↓  
 Order is posted → Event Subscriber triggers  
-     ↓  
+            ↓  
 Warranty Management Codeunit creates warranty record  
-     ↓  
+            ↓  
 Warranty appears in the Warranty List page  
 
 <img width="1795" height="656" alt="image" src="https://github.com/user-attachments/assets/413851d9-9585-40bc-a488-e410c0ad7508" />
+
+<img width="684" height="248" alt="image" src="https://github.com/user-attachments/assets/425f37e8-b4d7-4a3b-ace6-cf0a598e5d1c" />
+
 
